@@ -1,0 +1,734 @@
+"","GeneName","UniProt","Protein_name"
+"1","Hspa8","P63018","Heat shock cognate 71 kDa protein"
+"2","Flot1","Q9Z1E1","Flotillin-1"
+"3","Atp5f1b","P10719","ATP synthase subunit beta, mitochondrial"
+"4","Vdac1","Q9Z2L0","Voltage-dependent anion-selective channel protein 1"
+"5","Phb","P67779","Prohibitin"
+"6","Actb","P60711","Actin cytoplasmic 1"
+"7","Flot2","Q9Z2S9","Flotillin-2"
+"8","Vdac2","P81155","Voltage-dependent anion-selective channel protein 2"
+"9","Atp1a1","P06685","Sodium/potassium-transporting ATPase subunit alpha-1"
+"10","Gapdh","P04797","Glyceraldehyde-3-phosphate dehydrogenase"
+"11","Gnb1","P54311","Transducin beta-1"
+"12","Anxa2","Q07936","Annexin A2"
+"13","Gnai2","P04897","Guanine nucleotide-binding protein G(i) subunit alpha-2"
+"14","Hspa5","P06761","Endoplasmic reticulum chaperone BiP"
+"15","Canx","P35565","Calnexin"
+"16","Myh9","G3V6P7","Myosin heavy chain 9"
+"17","Vim","P31000","Vimentin"
+"18","Rab7a","P09527","Ras-related protein Rab-7a"
+"19","Bsg","P26453","Basigin"
+"20","Atp6v1a","D4A133","V-type proton ATPase catalytic subunit A"
+"21","Ywhaz","P63102","14-3-3 protein zeta/delta"
+"22","Cltc","P11442","Clathrin heavy chain 1"
+"23","Stom","Q5XI04","Erythrocyte band 7 integral membrane protein"
+"24","Gnb2","P54313","Transducin beta-2"
+"25","Erlin2","B5DEH2","Erlin-2"
+"26","Snap23","O70377","Synaptosomal-associated protein 23 (SNAP-23)"
+"27","Uqcrc2","P32551","Cytochrome b-c1 complex subunit 2, mitochondrial"
+"28","Phb2","Q5XIH7","Prohibitin 2"
+"29","LSP1","P33241","Lymphocyte‑specific protein 1"
+"30","RAC2","B1AH80","Ras‑related C3 botulinum toxin substrate 2"
+"31","PPP1R9B","Q96SB3","Neurabin II"
+"32","GPSM3","Q9Y4H4","G‑protein‑signaling modulator 3"
+"33","CAMK2G","Q8WU40","Ca²⁺/calmodulin‑dependent protein kinase II γ"
+"34","RAB1C","Q92928","Putative Ras‑related protein Rab‑1C"
+"35","SHKBP1","Q8TBC3","SH3KBP1‑binding protein 1"
+"36","CAP1","Q01518","Adenylyl cyclase‑associated protein 1"
+"37","ST6GAL1","P15907","β‑galactoside α‑2,6‑sialyltransferase 1 (CD75)"
+"38","SIPA1","Q96FS4","Signal‑induced proliferation‑associated protein 1"
+"39","HS2ST1","Q7LGA3","Heparan sulfate 2‑O‑sulfotransferase 1"
+"40","GNG11","P61952","G protein γ‑11 subunit"
+"41","SPARC","P09486","Basement‑membrane protein 40"
+"42","IFI30","P13284","IFN‑γ‑inducible lysosomal thiol reductase"
+"43","PPP1R18","Q6NYC8","Phostensin"
+"44","LMO7","Q8WWI1","LIM domain only protein 7"
+"45","TPP2","P29144","Tripeptidyl‑peptidase 2"
+"46","AP1B1","Q10567","AP‑1 complex subunit β‑1"
+"47","OSBPL5","Q9H0X9","Oxysterol‑binding protein‑related protein 5"
+"48","POTEE","Q6S8J3","POTE ankyrin domain family member E"
+"49","TMEM205","Q6UW68","Transmembrane protein 205"
+"50","GNAI2","P04899","Guanine nucleotide‑binding protein G(i) subunit alpha‑2"
+"51","ANXA2","P07355","Annexin A2 (Annexin II)"
+"52","GNAI3","P08754","Guanine nucleotide‑binding protein G(k) subunit alpha"
+"53","CD59","P13987","CD59 glycoprotein (1F5 antigen)"
+"54","CAV1","Q03135","Caveolin‑1"
+"55","GNG12","Q9UBI6","Guanine nucleotide‑binding protein G(I)/G(S)/G(O) subunit gamma‑12"
+"56","HSPA8","P11142","Heat shock cognate 71 kDa protein"
+"57","PHB","P35232","Prohibitin"
+"58","STOM","P27105","Erythrocyte band 7 integral membrane protein"
+"59","FLOT2","Q14254","Flotillin‑2"
+"60","GAPDH","P04406","Glyceraldehyde‑3‑phosphate dehydrogenase"
+"61","RAC1","P63000","Ras‑related C3 botulinum toxin substrate 1"
+"62","GSN","P06396","Gelsolin"
+"63","RPL7A","P62424","60S ribosomal protein L7a"
+"64","AHNAK","Q09666","Neuroblast differentiation‑associated protein AHNAK"
+"65","ATP6V0A3","Q13488","V‑type proton ATPase subunit a isoform 3"
+"66","DSG2","Q14126","Desmoglein‑2"
+"67","PHB2","Q99623","Prohibitin‑2"
+"68","PLEC","Q15149","Plectin"
+"69","ANPEP","P15144","Aminopeptidase N (CD13)"
+"70","GPRC5C","Q9NQ84","G‑protein‑coupled receptor family C group 5 member C"
+"71","HSP90B1","P14625","Endoplasmin (tumor rejection antigen 1)"
+"72","Slc25a5","P05141","ADP/ATP translocase 2"
+"73","Slc25a4","P48962","ADP/ATP translocase 1"
+"74","Itpr3","Q14573","Inositol 1,4,5-trisphosphate receptor type 3"
+"75","Agps","O00116","Alkyldihydroxyacetonephosphate synthase, peroxisomal precursor"
+"76","Acbd3","P28288","Golgi resident protein GCP60"
+"77","Fasn","P49327","Fatty acid synthase"
+"78","Cyb5r1","Q9DB73","NADH-cytochrome b5 reductase 1"
+"79","Tcp1","E7EQR6","T-complex protein 1 subunit alpha (isoform 1)"
+"80","Clgn","O14967","Calmegin"
+"81","Sep15","O60613","15 kDa selenoprotein"
+"82","Dnaja2","O60884","DnaJ (Hsp40) homolog subfamily A member 2"
+"83","P4hb","P07237","Protein disulfide-isomerase"
+"84","Hsp90ab1","P08238","Heat shock protein HSP 90-beta"
+"85","Pdia3","P30101","ERp57"
+"86","Hspa9","P38646","Stress-70 protein, mitochondrial"
+"87","Cct5","P48643","T-complex protein 1 subunit epsilon"
+"88","Cct8","P50990","T-complex protein 1 subunit theta"
+"89","Cct6a","P80317","Chaperonin subunit 6a"
+"90","Trap1","Q12931","80 kDa protein"
+"91","Mogs","Q13724","Mannosyl-oligosaccharide glucosidase"
+"92","Fkbp8","Q14318","Peptidyl-prolyl cis-trans isomerase FKBP8"
+"93","Ganab","Q14697","Neutral alpha-glucosidase AB"
+"94","DNAJC11","Q9NVH1","59 kDa protein"
+"95","Uggt","Q9NYU2","UDP-glucose:glycoprotein glucosyltransferase 1"
+"96","DNAJB11","Q9UBS4","DnaJ homolog subfamily B member 11"
+"97","Sec63","Q9UGP8","Translocation protein SEC63 homolog"
+"98","Rpn1","P04843","Dolichyl-diphosphooligosaccharide–protein glycosyltransferase subunit 1"
+"99","Rpn2","P04844","Dolichyl-diphosphooligosaccharide–protein glycosyltransferase subunit 2"
+"100","Eif2s1","P05198","Eukaryotic translation initiation factor 2 subunit 1"
+"101","Calr","P27797","Calreticulin"
+"102","Ddost","P39656","Dolichyl-diphosphooligosaccharide–protein glycosyltransferase 48 kDa subunit"
+"103","Ssr4","P51571","Translocon-associated protein subunit delta"
+"104","Vcp","P55072","Transitional endoplasmic reticulum ATPase"
+"105","Ckap4","Q07065","Cytoskeleton-associated protein 4"
+"106","Hyou1","Q9Y4L1","Hypoxia up-regulated protein 1"
+"107","BSG","Q865R3","Basigin"
+"108","CDH2","P19534","Cadherin-2"
+"109","CTSD","P80209","Cathepsin D"
+"110","CXADR","Q8WMV3","Coxsackievirus and adenovirus receptor homolog"
+"111","DAG1","O18738","Dystroglycan"
+"112","EFNB1","A0A3Q1MMC0","Ephrin-B1"
+"113","EGFR","A0A3Q1MHB0","Epidermal growth factor receptor"
+"114","ERLIN1","A0A3Q1MZY2","Erlin-1"
+"115","ERLIN2","A0AAA9TYU4","Erlin-2"
+"116","EZR","Q5E9H3","Ezrin"
+"117","FAIM2","Q1LZ71","Protein lifeguard 2"
+"118","FLOT1","Q08DN8","Flotillin-1"
+"119","GJA1","P18246","Gap junction alpha-1 protein"
+"120","GJA3","P41987","Gap junction alpha-3 protein"
+"121","GNAI1","P63097","Guanine nucleotide-binding protein G(i) subunit alpha-1"
+"122","GPC1","G3X745","Glypican-1"
+"123","ITGB1","P53712","Integrin beta-1"
+"124","KRAS","A0A3Q1LMP2","GTPase KRas"
+"125","LAMTOR1","Q3T0D8","Ragulator complex protein LAMTOR1"
+"126","LAT","F1MZ60","Blood–brain barrier large neutral amino acid transporter"
+"127","PAG1","F1MQC1","Phosphoprotein associated with glycosphingolipid-enriched microdomains 1"
+"128","PGK1","Q3T0P6","Phosphoglycerate kinase 1"
+"129","PRNP","P10279","Major prion protein"
+"130","PSEN1","Q9XT97","Presenilin-1"
+"131","RAB5A","Q0IIG7","Ras-related protein Rab-5A"
+"132","RALA","Q3ZCK2","Ras related v-ral simian leukemia viral oncogene homolog A"
+"133","RAP2B","A4IFU2","Ras-related protein Rap-2b"
+"134","STOML2","Q32LL2","Stomatin-like protein 2, mitochondrial"
+"135","STX12","A7MAZ2","Syntaxin-12"
+"136","STX2","F1MNQ8","Syntaxin-2"
+"137","TMED10","Q5E971","Transmembrane emp24 domain-containing protein 10"
+"138","TMED2","Q5E971","Transmembrane emp24 domain-containing protein 2"
+"139","VDAC2","P68002","Voltage-dependent anion-selective channel protein 2"
+"140","P2RX7","Q99572","P2X purinoceptor 7"
+"141","Abca6","A4FVC6",NA
+"142","Abcb11","O95342",NA
+"143","Abcc2","B2RMT8",NA
+"144","Abcc5","A5PKY6",NA
+"145","Abcc6","O95255",NA
+"146","Abcd3","P28288",NA
+"147","Aldh3a2","P51648",NA
+"148","Anpep","P15144",NA
+"149","Anxa6","A0A0S2Z2Z6",NA
+"150","Atp1a4","Q13733",NA
+"151","Atp1b1","A3KLL5",NA
+"152","Atp4a","A0A384MR29",NA
+"153","Atp6v0c","P27449",NA
+"154","Atp6v0d1","B2R7M1",NA
+"155","Atp6v1b1","C9JL73",NA
+"156","Atp6v1b2","A0A140VK65",NA
+"157","Atp6v1e1","P36543",NA
+"158","Cacna2d1","A0A994J595",NA
+"159","Cd14","B2R888",NA
+"160","Cp","A5PL27",NA
+"161","Cyb5a","P00167",NA
+"162","Cybb","A0A0S2Z3S6",NA
+"163","Egfr","F2YGG7",NA
+"164","Enpp1","B2RBY8",NA
+"165","Enpp3","A8KA38",NA
+"166","Gjb1","A0A654ICJ7",NA
+"167","Glipr2","Q5VZR0",NA
+"168","Gna11","O15109",NA
+"169","Gna13","B4DWV9",NA
+"170","Gnal","A8K1Y9",NA
+"171","Gnas","A0A0S2Z3H8",NA
+"172","Gnb3","E9PCP0",NA
+"173","Irgm","A1A4Y4",NA
+"174","Iyd","C9JXJ9",NA
+"175","Lyn","A8K379",NA
+"176","Magt1","A0A8I5KYH1",NA
+"177","Msn","P26038",NA
+"178","Myadm","B2RE58",NA
+"179","Myh10","G1UI33",NA
+"180","Myh14","B3KWH4",NA
+"181","Napa","A8K879",NA
+"182","Nme2","A8MWA3",NA
+"183","Nt5e","B2RBH2",NA
+"184","Pgrmc1","O00264",NA
+"185","Rab10","D6W538",NA
+"186","Rab15","G3V196",NA
+"187","Rab35","Q15286",NA
+"188","Rap1b","A6NIZ1",NA
+"189","Rdx","A0A2R8Y5S7",NA
+"190","Sfxn1","B3KPW3",NA
+"191","Sfxn2","Q5JSM6",NA
+"192","Sfxn3","A0A8V8TP06",NA
+"193","Siglec1","A5D8Z7",NA
+"194","Slc12a7","A0A0G2JNW7",NA
+"195","Slc22a1","A6NFF3",NA
+"196","Slc22a18","Q96BI1",NA
+"197","Slc25a15","B2R921",NA
+"198","Slc26a1","A8K9N2",NA
+"199","Slc28a2","A8K7F9",NA
+"200","Slc2a2","A8K481",NA
+"201","Slc38a3","B2R8Q0",NA
+"202","Slc38a4","A8K553",NA
+"203","Slc4a4","A0A8V8TNB1",NA
+"204","Sptbn2","A0A087WYQ1",NA
+"205","Steap3","A8K6E3",NA
+"206","Steap4","Q658Q9",NA
+"207","Stoml2","Q9UJZ1",NA
+"208","Tap1","Q03518",NA
+"209","Tap2","A0A1V0E3Z3",NA
+"210","Tapbp","A0A0G2JKZ1",NA
+"211","Tcirg1","A0A8V8TM28",NA
+"212","Tm9sf4","A0A0C4DFM1",NA
+"213","Tmed10","A0A024R6I3",NA
+"214","Tmem205","K7ELQ9",NA
+"215","Vapa","Q9P0L0",NA
+"216","Vapb","Q59EZ6",NA
+"217","Vdac3","Q9Y277",NA
+"218","Vnn1","A8K310",NA
+"219","Acsl1","A8K9T3",NA
+"220","Acsl5","A0A8C8KCK5",NA
+"221","Atad3a","B3KPB3",NA
+"222","Bdh1","A0A384MTY4",NA
+"223","Chchd3","C9JRZ6",NA
+"224","Chdh","Q8NE62",NA
+"225","Cisd1","Q1X902",NA
+"226","Comtd1","A8K337",NA
+"227","Cox4i1","B2R4J2",NA
+"228","Cox5b","A0A384NL93",NA
+"229","Cox7a2l","D6W5A1",NA
+"230","Cps1","B7Z818",NA
+"231","Cyb5b","A8K6B1",NA
+"232","Cyb5r3","A0A8J8Z3C6",NA
+"233","Cyc1","P08574",NA
+"234","Cyp1a2","P05177",NA
+"235","Decr1","Q16698",NA
+"236","Faah","D3DQ19",NA
+"237","Ghitm","A8K9Z9",NA
+"238","Glud1","A0A140VK14",NA
+"239","Hadh","A0A0A0MSE2",NA
+"240","Hadha","B2R7L4",NA
+"241","Hmgcs2","P54868",NA
+"242","Hsd17b10","Q99714",NA
+"243","Hsd17b13","Q7Z5P4",NA
+"244","Immt","B4DKR1",NA
+"245","Lactb","P83111",NA
+"246","Maoa","B4DF46",NA
+"247","Mccc2","A0A804HK37",NA
+"248","Mdh2","Q6FHZ0",NA
+"249","Mtch2","Q53G34",NA
+"250","Mt-co1","A0A1X7RBG2",NA
+"251","Mt-co2","A0A1B0VYS2",NA
+"252","Mt-nd1","A0A059RPU0",NA
+"253","Mt-nd2","A0A1X7RBG6",NA
+"254","Mt-nd4","A0A097PWY9",NA
+"255","Mt-nd5","A0S302",NA
+"256","Mtx1","A0A0A0MRK6",NA
+"257","Mtx2","B7Z9F3",NA
+"258","Ndufa12","A0A804HJF8",NA
+"259","Ndufa2","O43678",NA
+"260","Ndufa5","A0A087X1G1",NA
+"261","Ndufa6","A0A2Y9D025",NA
+"262","Ndufa7","Q9NPF0",NA
+"263","Ndufa8","B7Z768",NA
+"264","Ndufa9","A8K4V2",NA
+"265","Ndufb10","A8K761",NA
+"266","Ndufb3","O43676",NA
+"267","Ndufb4","O95168",NA
+"268","Ndufb5","O43674",NA
+"269","Ndufb6","A0A087WZX2",NA
+"270","Ndufb7","P17568",NA
+"271","Ndufb8","E9PQ68",NA
+"272","Ndufc2","O95298",NA
+"273","Ndufs1","A0A291FIZ5",NA
+"274","Ndufs3","B2R9J1",NA
+"275","Ndufs4","H0Y9M8",NA
+"276","Ndufs7","B7Z1U1",NA
+"277","Ndufs8","B2RB86",NA
+"278","Ndufv1","G3V0I5",NA
+"279","Ndufv2","A8K750",NA
+"280","Nipsnap1","B4DQI7",NA
+"281","Nnt","E9PCX7",NA
+"282","Pc","B4DN00",NA
+"283","Pdhb","A0A384MDR8",NA
+"284","Rmnd1","A0A087WXU0",NA
+"285","Samm50","Q53HC4",NA
+"286","Sdha","Q0QF12",NA
+"287","Sdhb","A0AAQ5BHC9",NA
+"288","Slc25a1","D9HTE9",NA
+"289","Slc25a10","A0A0S2Z3G3",NA
+"290","Slc25a11","I3L1P8",NA
+"291","Slc25a13","Q53GR7",NA
+"292","Slc25a20","B2R7F4",NA
+"293","Slc25a27","B4DHR4",NA
+"294","Slc25a3","A0A024RBE8",NA
+"295","Srd5a1","B2R7Q1",NA
+"296","Tmem126a","Q9H061",NA
+"297","Tmem14c","A0A0S2Z5C3",NA
+"298","Tomm22","Q53GB0",NA
+"299","Tomm40","A0A024R0P9",NA
+"300","Uqcrc1","A0AAQ5BHN1",NA
+"301","Uqcrfs1","A0A384NPX8",NA
+"302","Uqcrq","O14949",NA
+"303","Actbl2","B2RPJ1",NA
+"304","Actn1","A0A024R694",NA
+"305","Aldob","A8K430",NA
+"306","Arf6","P26438",NA
+"307","Arg1","A0A5F9ZGN6",NA
+"308","Arpc4","P59998",NA
+"309","Bhmt","B2RCQ6",NA
+"310","Capza2","A4D0V4",NA
+"311","Car3","B2R867",NA
+"312","Cdh2","P19022",NA
+"313","Col18a1","A0AAG2UW65",NA
+"314","Cth","P32929",NA
+"315","Ctnna1","B4E2G8",NA
+"316","Dsp","Q4LE79",NA
+"317","Krt1","B2RA01",NA
+"318","Krt10","P13645",NA
+"319","Krt12","B2R9E0",NA
+"320","Krt14","P02533",NA
+"321","Krt15","A8K488",NA
+"322","Krt18","B2RA03",NA
+"323","Krt27","Q7Z3Y8",NA
+"324","Krt4","B4DKJ0",NA
+"325","Krt5","B4E1T1",NA
+"326","Krt7","B3KY79",NA
+"327","Krt73","Q32MB2",NA
+"328","Krt75","B4DQU4",NA
+"329","Krt76","B4DRR3",NA
+"330","Krt8","Q7L4M3",NA
+"331","Myo1b","B0I1S9",NA
+"332","Pdia6","Q15084",NA
+"333","Sptbn1","B2RP63",NA
+"334","Tuba1c","B7Z1K5",NA
+"335","Tubb5","B4DY90",NA
+"336","Ugt1a5","A6NJC3",NA
+"337","Dpep1","A0A140VJI3",NA
+"338","Dpp4","A0A7I2V2R5",NA
+"339","Lrrc59","B2RE83",NA
+"340","Rpl13","A8K4C8",NA
+"341","Rpl14","P50914",NA
+"342","Rpl15","E7EQV9",NA
+"343","Rpl18a","B2R4C0",NA
+"344","Rpl23a","B2R5B2",NA
+"345","Rpl3","B2RDV9",NA
+"346","Rplp2","P05387",NA
+"347","Rps13","B0YIX6",NA
+"348","Rps14","A0A2R8Y811",NA
+"349","Rps4x","B2R491",NA
+"350","Rps5","B2R4T2",NA
+"351","Rps6","A2A3R6",NA
+"352","Rps8","A0AAG2TTP8",NA
+"353","Armc10","Q8N2F6",NA
+"354","Atp2a2","H7C5W9",NA
+"355","Bcap31","B3KQ79",NA
+"356","Cisd2","Q7Z3D5",NA
+"357","Cyp2e1","A8K457",NA
+"358","Derl1","Q9BUN8",NA
+"359","Dhcr7","A0A024R5F7",NA
+"360","Dnajc11","B4DPK2",NA
+"361","Ephx1","A0A024R3P4",NA
+"362","Erlin1","B0QZ42",NA
+"363","Fmo3","A0A024R8Z4",NA
+"364","Fmo5","P49326",NA
+"365","Hsd17b11","D6RCD0",NA
+"366","Hsd17b6","B2R8L8",NA
+"367","Lman1","B2R774",NA
+"368","Lpcat3","B2RDH0",NA
+"369","Maob","B2R6R3",NA
+"370","Mgst1","A8K533",NA
+"371","Mlec","F5H1S8",NA
+"372","Por","P16435",NA
+"373","Ppib","A0A7P0TB45",NA
+"374","Sec11a","P0C7V7",NA
+"375","Sec61b","P38390",NA
+"376","Slc27a2","Q53GS2",NA
+"377","Slc27a5","Q9Y2P5",NA
+"378","Soat2","F5H7W4",NA
+"379","Ssr1","C9JBX5",NA
+"380","Tmco1","B2REA0",NA
+"381","Tmem11","P17152",NA
+"382","Tram1","Q6FHU7",NA
+"383","Acin1","E7EQT4",NA
+"384","Fbl","B4DLD4",NA
+"385","Fbll1","A6NHQ2",NA
+"386","Gpx4","K7EJ20",NA
+"387","H3f3b","P0DPK2",NA
+"388","Lbr","B2R5P3",NA
+"389","Mex3a","A1L020",NA
+"390","Acox3","B2R856",NA
+"391","Cat","A0A384P5Q0",NA
+"392","Dhrs4","Q9BTZ2",NA
+"393","Ehhadh","Q08426",NA
+"394","Prdx1","A0A384NPQ2",NA
+"395","Pxmp2","Q9NR77",NA
+"396","ACTA1","A8K3K1",NA
+"397","ACTB","P02570",NA
+"398","ACTG1","A8K7C2",NA
+"399","ACTN1","A0A024R694",NA
+"400","ACTN4","A0A8V8TL71",NA
+"401","ADAM10","B4DU28",NA
+"402","ADAM17","Q53RS1",NA
+"403","ADAR","A0AAQ5BGJ4",NA
+"404","AGRN","A0A087X208",NA
+"405","ALDH3B1","A3FMP9",NA
+"406","AMBP","P00977",NA
+"407","ANTXR1","H0YC24",NA
+"408","AP2A2","B7Z5S9",NA
+"409","APEX1","G3V3M6",NA
+"410","ARG1","A0A5F9ZGN6",NA
+"411","ASPH","Q12797",NA
+"412","ATP1A1","B2RBR6",NA
+"413","ATXN2","F8VQP2",NA
+"414","ATXN2L","H3BUF6",NA
+"415","BAG2","B3KM36",NA
+"416","BCAM","A0A087WXM8",NA
+"417","BLMH","B2R796",NA
+"418","BUB3","A0A140VJF3",NA
+"419","CANX","A0A7P0T840",NA
+"420","CAPRIN1","A6NMY7",NA
+"421","CAPZA2","A4D0V4",NA
+"422","CAPZB","B2R7T8",NA
+"423","CASK","B7ZKY2",NA
+"424","CAV2","P51636",NA
+"425","CCDC69","A6NI79",NA
+"426","CCNY","B2RBH6",NA
+"427","CCT2","B7Z4R3",NA
+"428","CCT5","B4DX08",NA
+"429","CCT6A","B2R9K8",NA
+"430","CCT8","Q53HU0",NA
+"431","CD44","A5YRN9",NA
+"432","CD55","A0A172WBW8",NA
+"433","CD63","F8VZE2",NA
+"434","CD81","E9PJK1",NA
+"435","CD9","A6NNI4",NA
+"436","CDCP1","Q49UB4",NA
+"437","CDK7","D6RAD4",NA
+"438","CFL1","B3KUQ1",NA
+"439","CFL2","Q9Y281",NA
+"440","CKAP4","B3KVX6",NA
+"441","CLDN23","Q08AJ3",NA
+"442","CLDN3","O15551",NA
+"443","CLDND1","B3KQR1",NA
+"444","CLTC","A0A087WVQ6",NA
+"445","CNOT1","A5YKK6",NA
+"446","CNOT7","Q96IQ6",NA
+"447","CORO1C","B3KN06",NA
+"448","CPM","B2R800",NA
+"449","CSNK1G1","A0A0U1RQY7",NA
+"450","CSNK1G2","B5BU42",NA
+"451","CSNK1G3","Q9Y6M4",NA
+"452","CTDSP1","H7C270",NA
+"453","CTNNA1","B4E2G8",NA
+"454","CTNND1","A8K939",NA
+"455","DBN1","A0A2Z6ATB6",NA
+"456","DCD","P81605",NA
+"457","DCUN1D3","B3KVY4",NA
+"458","DDOST","A0A0C4DGS1",NA
+"459","DDX1","A0A7I2V4F0",NA
+"460","DDX17","A0A1X7SBZ2",NA
+"461","DDX3X","A0A2R8YFS5",NA
+"462","DDX5","B4DLW8",NA
+"463","DDX6","B2R858",NA
+"464","DECR1","Q16698",NA
+"465","DHX15","B4E0S6",NA
+"466","DHX36","B7Z8P5",NA
+"467","DHX9","B2RNV4",NA
+"468","DLAT","A0A7P0Z4G4",NA
+"469","DLST","B7Z6J1",NA
+"470","DNAJA1","B7Z5C0",NA
+"471","DNAJA2","B2R7L7",NA
+"472","DNAJB14","Q6UXN1",NA
+"473","DNMT1","Q59FP7",NA
+"474","DSG1","B7Z845",NA
+"475","DSP","Q4LE79",NA
+"476","EDC4","A0A8B0RAT7",NA
+"477","EDIL3","O43854",NA
+"478","EEF1A1","A8K9C4",NA
+"479","EEF1A2","A0A9L9PXK0",NA
+"480","EEF1D","B2RAR6",NA
+"481","EEF1G","B4DTG2",NA
+"482","EEF2","A0A384N6H1",NA
+"483","EEPD1","Q7L9B9",NA
+"484","EFR3A","A0A1B0GUZ7",NA
+"485","EFTUD2","A8KAP3",NA
+"486","EIF2A","Q9BY44",NA
+"487","EIF2S1","G3V4T5",NA
+"488","EIF2S3","A0A024RBY4",NA
+"489","EIF3B","A4D208",NA
+"490","EIF3D","A8MWD3",NA
+"491","EIF3F","A8K0S2",NA
+"492","EIF3G","A8K5K5",NA
+"493","EIF3H","O15372",NA
+"494","EIF3I","A0A7I2YQI2",NA
+"495","EIF3K","B4DVD7",NA
+"496","EIF4A1","J3KT12",NA
+"497","EIF4A3","I3L3H2",NA
+"498","EIF5A2","B2R4V5",NA
+"499","EIF6","B7ZBG9",NA
+"500","ELAVL1","B4DVB8",NA
+"501","ENO1","E2DRY6",NA
+"502","EPHA2","B5A968",NA
+"503","EXOSC2","A0A8I5KVY3",NA
+"504","EXOSC4","Q9NPD3",NA
+"505","EXOSC6","Q5RKV6",NA
+"506","FAM120A","Q9NZB2",NA
+"507","FARSB","A8K666",NA
+"508","FASN","A0A0U1RQF0",NA
+"509","FLG2","Q5D862",NA
+"510","FLNA","E9KL45",NA
+"511","FLNB","A0A804HK76",NA
+"512","FLNC","A0AAQ5BHM3",NA
+"513","FNDC3B","B2RB36",NA
+"514","FXR1","B4DM21",NA
+"515","FXR2","A0A994J7P9",NA
+"516","G3BP1","Q13283",NA
+"517","GLUD1","B4E0N9",NA
+"518","GNA11","O15109",NA
+"519","GNA13","B4DWV9",NA
+"520","GNAQ","A0A024R240",NA
+"521","GNAS","A0A0S2Z3H8",NA
+"522","GNB1","B3KVK2",NA
+"523","GNB2","B3KPU1",NA
+"524","GOLGA7","A0A8Q3WLM5",NA
+"525","GPRC5A","A8K556",NA
+"526","GRWD1","A0MNN5",NA
+"527","HADHA","B2R7L4",NA
+"528","HADHB","B2RB16",NA
+"529","HBB","A0A481SHK9",NA
+"530","HDLBP","B2R5V9",NA
+"531","HLA-B","A0A0B7MB31",NA
+"532","HLA-C","A0A090KFT5",NA
+"533","HNRNPA0","A0ABB0MN55",NA
+"534","HNRNPA1","A0A024RB53",NA
+"535","HNRNPA2B1","A0A384NL58",NA
+"536","HNRNPL","M0QXS5",NA
+"537","HNRNPR","A0A6Q8PEX7",NA
+"538","HRNR","Q5DT20",NA
+"539","HSP90AA1","P07900",NA
+"540","HSP90AB1","B2R5P0",NA
+"541","HSPA1A","A0A0G2JIW1",NA
+"542","HSPA1L","A0A1U9X7W7",NA
+"543","HSPA5","A0A7P0TB36",NA
+"544","HSPA9","A0A384P5G6",NA
+"545","HSPG2","P98160",NA
+"546","IGF2R","P11717",NA
+"547","ILF2","B4DY09",NA
+"548","ILF3","A8K590",NA
+"549","IMPDH2","A0A384N6C2",NA
+"550","INPP5A","Q9C055",NA
+"551","ITGA3","A0A140VJM0",NA
+"552","ITM2B","A0A384MDP7",NA
+"553","ITM2C","Q9NQX7",NA
+"554","JUP","A0A0S2Z487",NA
+"555","KPNB1","B7Z752",NA
+"556","KTN1","B4DZ88",NA
+"557","LACTB","P83111",NA
+"558","LAMA5","O15230",NA
+"559","LAMB2","P55268",NA
+"560","LAMC1","P11047",NA
+"561","LAPTM4A","D6W522",NA
+"562","LARP4","Q6P4E2",NA
+"563","LAT2","A6NFK6",NA
+"564","LGALS1","A0A384MR27",NA
+"565","LIMA1","Q53GG0",NA
+"566","LMNA","P02545",NA
+"567","LRP10","H0YHW7",NA
+"568","LRRC1","A8K883",NA
+"569","LRRC47","Q8N1G4",NA
+"570","LRRC59","B2RE83",NA
+"571","LSM12","K7ELG9",NA
+"572","LSR","A0A8Z5DL71",NA
+"573","LYN","A8K379",NA
+"574","M6PR","F5GX30",NA
+"575","MATR3","A0A0R4J2E8",NA
+"576","MCM2","B7Z8Z6",NA
+"577","MED17","A0A384NYG5",NA
+"578","METAP1","B4E2E6",NA
+"579","MFGE8","B3KTQ2",NA
+"580","MKI67","P46013",NA
+"581","MTDH","E5RJU9",NA
+"582","MUC1","A5YRU8",NA
+"583","MYADM","B2RE58",NA
+"584","MYH9","A0A8I5KWT8",NA
+"585","MYO1C","B7Z3E5",NA
+"586","NACA","A0A7I2V2K5",NA
+"587","NCSTN","A0A8V8TNI3",NA
+"588","NDFIP1","B2RDB8",NA
+"589","NONO","A0A0S2Z4Z9",NA
+"590","NPM1","A0A140VJQ2",NA
+"591","NRAS","A0A024R0K0",NA
+"592","NRP1","Q5T7F0",NA
+"593","NT5E","B2RBH2",NA
+"594","NUP43","B3KTT0",NA
+"595","OSMR","Q99650",NA
+"596","PA2G4","A8K6Y1",NA
+"597","PABPC1","B3KT93",NA
+"598","PABPC4","Q6IQ30",NA
+"599","PACSIN3","A0A0C4DGG1",NA
+"600","PALM","B2RCL4",NA
+"601","PARP1","B1ANJ4",NA
+"602","PCBP1","Q13157",NA
+"603","PDIA3","A0A8I5KT88",NA
+"604","PDIA6","Q15084",NA
+"605","PERP","B2RB73",NA
+"606","PI4K2A","D3DR59",NA
+"607","PLCB3","A5PKZ6",NA
+"608","PLD1","Q59EA4",NA
+"609","PLOD3","B2R6W6",NA
+"610","PLSCR1","C9J7K9",NA
+"611","POLR1A","B7Z7T0",NA
+"612","PPIA","P62937",NA
+"613","PPIB","A0A7P0TB45",NA
+"614","PPP1CA","A0A140VJS9",NA
+"615","PPP1CB","A0A8V8TQ71",NA
+"616","PPP1CC","Q9UPN1",NA
+"617","PPP2CA","A0A8V8TQA1",NA
+"618","PRDX1","A0A384NPQ2",NA
+"619","PRDX2","A8K0C0",NA
+"620","PRDX3","P30048",NA
+"621","PROCR","B2RC04",NA
+"622","PRPF19","Q9UMS4",NA
+"623","PRPF4","B2R7V4",NA
+"624","PSPC1","B4DWI8",NA
+"625","PTBP1","A0A0U1RRM4",NA
+"626","PTGFRN","Q4QQP8",NA
+"627","PTTG1IP","B4DDS6",NA
+"628","PURA","Q00577",NA
+"629","PVR","B4DTS9",NA
+"630","RAE1","A8K882",NA
+"631","RALB","B4E040",NA
+"632","RELL1","Q8IUW5",NA
+"633","RFC4","B4DM41",NA
+"634","RGS17","Q5TF49",NA
+"635","RGS19","A8K216",NA
+"636","RGS20","O76081",NA
+"637","RP2","A0A1B2JLU2",NA
+"638","RPA1","A8K0Y9",NA
+"639","RPL10A","B2R801",NA
+"640","RPL11","P25121",NA
+"641","RPL12","P30050",NA
+"642","RPL3","B2RDV9",NA
+"643","RPL30","B2R591",NA
+"644","RPL5","A2RUM7",NA
+"645","RPL9","A0A024R9U2",NA
+"646","RPLP0","A8K4Z4",NA
+"647","RPS12","P25398",NA
+"648","RPS15A","A8K7H3",NA
+"649","RPS16","B2RDD5",NA
+"650","RPS17","B2R4U4",NA
+"651","RPS2","B2R5G0",NA
+"652","RPS20","B2R4F4",NA
+"653","RPS21","P35265",NA
+"654","RPS27A","B2RDW1",NA
+"655","RPS3","B2R7N5",NA
+"656","RPS3A","A8K4W0",NA
+"657","RPS5","B2R4T2",NA
+"658","RPS8","A0AAG2TTP8",NA
+"659","RPS9","A9C4C1",NA
+"660","RPSA","A0A0C4DG17",NA
+"661","RRAS","P10301",NA
+"662","RRAS2","P62070",NA
+"663","RRBP1","Q9P2E9",NA
+"664","RSPRY1","B3KNH9",NA
+"665","RUVBL1","B3KRS7",NA
+"666","RUVBL2","B3KNL2",NA
+"667","SCAMP1","A0A087WXB0",NA
+"668","SCAMP3","A0AAQ5BHS3",NA
+"669","SCARB1","A0A7P0T9I2",NA
+"670","SCRIB","A0A0G2JNZ2",NA
+"671","SEH1L","Q96EE3",NA
+"672","SERBP1","Q5VU19",NA
+"673","SF3B3","A8K6V3",NA
+"674","SFPQ","A0A384N5Z8",NA
+"675","SLC26A2","A8K2U3",NA
+"676","SLC2A1","A8K9S6",NA
+"677","SMC1A","A0A6Q8PHC3",NA
+"678","SNAP23","A8K287",NA
+"679","SND1","A0A140VK49",NA
+"680","SPTAN1","A0A994J4G5",NA
+"681","SQSTM1","Q13501",NA
+"682","SRPK1","A8K8B2",NA
+"683","STX10","X6R2W0",NA
+"684","STX6","O43752",NA
+"685","STX8","O60712",NA
+"686","SYNCRIP","B7Z645",NA
+"687","TAOK1","A2RUT8",NA
+"688","TFRC","A8K6Q8",NA
+"689","TGM3","A0A494C0J7",NA
+"690","THOC1","B2RBP6",NA
+"691","THOC3","Q6NZ53",NA
+"692","THOC6","Q86W42",NA
+"693","TLN1","A0A1S5UZ07",NA
+"694","TMEM50A","B2R6I5",NA
+"695","TMEM59","Q5T704",NA
+"696","TMEM63B","B9EGU3",NA
+"697","TMPO","A2T926",NA
+"698","TNFRSF10A","A8K5I4",NA
+"699","TNFRSF10B","O14720",NA
+"700","TNKS1BP1","A0A024R542",NA
+"701","TPBG","A8K555",NA
+"702","TPM3","A0A0S2Z4I4",NA
+"703","TRAPPC3","A0A087WWM0",NA
+"704","TRIM25","Q14258",NA
+"705","TRIM28","B2R8R5",NA
+"706","TTN","A0A0A0MTS7",NA
+"707","TUBA1B","A8JZY9",NA
+"708","TUBA1C","B7Z1K5",NA
+"709","TUBB","B4DY90",NA
+"710","TXLNA","D3DPP6",NA
+"711","TXNDC5","A0A024QZV0",NA
+"712","UBE2N","P61088",NA
+"713","UBTD1","D3DR57",NA
+"714","UBTD2","Q8TDQ3",NA
+"715","UPF1","A0A994J4L7",NA
+"716","USP10","A0A7G6J4N4",NA
+"717","VAMP3","Q15836",NA
+"718","VANGL1","Q8TAA9",NA
+"719","VAPA","Q9P0L0",NA
+"720","VCP","A0A7P0T8A3",NA
+"721","VIM","B0YJC2",NA
+"722","XRCC5","A8K3X5",NA
+"723","XRCC6","B1AHC8",NA
+"724","XRN1","Q8IZH2",NA
+"725","YES1","A6NLB3",NA
+"726","YWHAE","B3KY71",NA
+"727","YWHAG","B3KNB4",NA
+"728","YWHAZ","A8K1N0",NA
+"729","ZC3HAV1","A8K9U6",NA
+"730","ZDHHC12","Q5T269",NA
+"731","ZDHHC20","B4DRN8",NA
+"732","ZDHHC5","Q2TGF0",NA
+"733","ZFR","B2RNR5",NA
