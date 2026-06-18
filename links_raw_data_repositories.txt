@@ -12,4 +12,5 @@ Links for Curated Raw Lipid Rafts Proteomic Data :
     11) Dubois et al., 2015; https://pmc.ncbi.nlm.nih.gov/articles/PMC4638043/table/TI/ 79
     12) García-Marcos et al., 2006;https://www.sciencedirect.com/science/article/pii/S0005 273606001878?via%3Dihub#tbl2 86
     13) Yang et al., 2009;https://apps.dtic.mil/sti/tr/pdf/ADA511273.pdf 87
-
+Links for Trancriptomic data:
+1) BioProject: PRJNA667177;https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA667177) 
