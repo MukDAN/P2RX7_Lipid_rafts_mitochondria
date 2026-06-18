@@ -1,0 +1,15 @@
+Links for Curated Raw Lipid Rafts Proteomic Data : 
+    1) Wang et al., 2020;https://jajgastrohepto.org/pdf/JJGH-v4-1290.pdf21
+    2) Freitas et al., 2019;https://www.mdpi.com/1422-0067/20/16/3904/s170
+    3) Foster et al.,2003;https://www.pnas.org/doi/10.1073/pnas.0631608100 71
+    4) Huang et al., 2004;https://pubs.acs.org/doi/10.1021/pr0340779 72
+    5) Alomari et al., 2014; https://www.longdom.org/open-access/profiling-the-lipid-raft- proteome-from-human-mec1-chronic-lymphocytic-leukemia-cells-33639.html 73
+    6) Shah et al., 2016; https://pubs.acs.org/doi/10.1021/acs.jproteome.5b01035 74
+    7) Poston et al., 2011;https://pmc.ncbi.nlm.nih.gov/articles/PMC3253365/table/T1/ 75
+    8) Caruso et al., 2011;https://pmc.ncbi.nlm.nih.gov/articles/PMC3827680/table/T1/ 76
+    9) Zhai et al., 2009;https://pmc.ncbi.nlm.nih.gov/articles/PMC2754564/table/T1/ 77
+    10) Wang et al., 2015;https://pmc.ncbi.nlm.nih.gov/articles/PMC4699431/table/i1552-5783-56-13 -8349-t01/ 78
+    11) Dubois et al., 2015; https://pmc.ncbi.nlm.nih.gov/articles/PMC4638043/table/TI/ 79
+    12) García-Marcos et al., 2006;https://www.sciencedirect.com/science/article/pii/S0005 273606001878?via%3Dihub#tbl2 86
+    13) Yang et al., 2009;https://apps.dtic.mil/sti/tr/pdf/ADA511273.pdf 87
+
